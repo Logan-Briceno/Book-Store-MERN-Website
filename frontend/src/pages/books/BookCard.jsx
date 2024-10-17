@@ -1,4 +1,5 @@
 //This BookCard is used for Top Sellers.jsx and Recommended Books.jsx that go inside the Home.jsx Page that is then sent to the router.jsx
+/* eslint-disable react/prop-types */
 import { FiShoppingCart } from 'react-icons/fi'
 import { getImgUrl } from '../../utils/getImgUrl'
 import { Link } from 'react-router-dom'
