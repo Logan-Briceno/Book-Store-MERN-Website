@@ -1,5 +1,5 @@
 //This is the Recommended page that is inside Home.jsx that is then sent to router.jsx
-import React, { useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 import BookCard from "../books/BookCard"
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Pagination, Navigation } from 'swiper/modules'
